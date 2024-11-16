@@ -136,7 +136,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-16 212608-1.png>)
+![Screenshot 2024-11-16 213940](https://github.com/user-attachments/assets/5426142a-bae2-41de-88ae-1d047442398c)
+
 
 
 ## RESULT
